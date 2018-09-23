@@ -7,3 +7,9 @@ set guifont=Consolas:h14
 set termencoding=utf8
 set encoding=utf8
 set fileencodings=utf8
+
+let g:netrw_preview=1
+let g:netrw_liststyle=0
+let g:netrw_winsize=30
+
+

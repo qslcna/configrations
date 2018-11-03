@@ -1,0 +1,21 @@
+{
+    "terminal.integrated.shell.windows": "C:\\msys64\\usr\\bin\\bash.exe",
+    "terminal.integrated.shellArgs.windows": ["--login","-i"],
+    "terminal.integrated.env.windows": {
+        "MSYSTEM": "MINGW64",
+        "CHERE_INVOKING":"1"
+    },
+    "window.zoomLevel": 0,
+    "http.proxy": "http://localhost:1080",
+    "java.trace.server": "off",
+    "java.autobuild.enabled": true,
+    "java.implementationsCodeLens.enabled": true,
+    "java.referencesCodeLens.enabled": true,
+    "java.errors.incompleteClasspath.severity": "ignore",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "ruby.interpreter.commandPath": "ruby",
+    "ruby.useBundler": true,
+    "ruby.pathToBundler": "bundle",
+}

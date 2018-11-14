@@ -5,7 +5,8 @@
         "MSYSTEM": "MINGW64",
         "MSYS2_PATH_TYPE": "inherit",
         "MSYS2_ARG_CONV_EXCL":"-FeC:",
-        "CHERE_INVOKING":"1"
+        "CHERE_INVOKING":"1",
+        "LANG":"zh_CN.utf8"
     },
     "window.zoomLevel": 0,
     "http.proxy": "http://localhost:1080",
